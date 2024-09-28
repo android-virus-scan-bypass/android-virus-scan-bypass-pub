@@ -1,6 +1,6 @@
 # Android Virus Scan Bypass
 
-安卓报毒解决方案 [中文说明](./README_cn.md)
+安卓报毒解决方案 [中文说明](./README_CN.md)
 
 ## Introduction
 
