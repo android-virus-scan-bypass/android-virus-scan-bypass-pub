@@ -18,7 +18,7 @@ We developed an app ([link](https://github.com/android-security-scan-bypass/andr
 
 ## Contact us
 
-If you're interested in protecting your app, join our [Telegram Group](https://t.me/android_security_check_bypass) or [send us a direct message](https://t.me/lry256). You can also reach us at [lry255@proton.me](mailto:lry255@proton.me). GPG key is listed below:
+If you're interested in protecting your app, [send us a direct message on Telegram](https://t.me/lry256). You can also reach us at [lry255@proton.me](mailto:lry255@proton.me). GPG key is listed below:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -38,4 +38,8 @@ MQMBCAeIfgQYFgoAJhYhBGuCoCga5Qo9oV0f5sVlSZWEYfNaBQJm9+UIAhsMBQku
 
 ## Notice
 
-If this GitHub repository is taken down, you can check out [our website hosted on tor network](http://bypass7vckrcx6e3655el3a74236ixvxwtivhqirdh6rmrtaqvwzjqyd.onion/) for the latest updates.
+If this GitHub repository is taken down, you can check out our website hosted on tor network for the latest updates.
+
+- ```
+  http://bypass7vckrcx6e3655el3a74236ixvxwtivhqirdh6rmrtaqvwzjqyd.onion/
+  ```
