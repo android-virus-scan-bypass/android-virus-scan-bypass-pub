@@ -6,11 +6,16 @@
 
 ## 示例
 
-1. [此应用](https://github.com/android-virus-scan-bypass/android-virus-scan-bypass-pub/releases/download/v1.0.0/original.apk)是模仿恶意应用行为（读取并上传sms，通讯录，照片，地理位置，通话记录等信息）开发的测试应用，virustotal多引擎[查出病毒](https://www.virustotal.com/gui/file/9b3c0e7b7bb015aaa8635c2e37208d6c406e5b5d631b994f5811932374da9cb5). Google 检测见图。重新打包进安装器（[点此下载测试安装器](https://github.com/android-security-scan-bypass/android-security-scan-bypass-pub/releases/download/v1.0.0/protected-installer.apk)）再安装后则正常（[处理后 virustotal 报告](https://www.virustotal.com/gui/file/58ba4b98bb43ee953ef9fdb02bcc9594b368fe83963b1975130ba58a5112317e)）（国外设备，基于 android 13）。完整视频[在此](https://github.com/android-security-scan-bypass/android-security-scan-bypass-pub/releases/download/v1.0.0/recording.mp4)。
+1. [此应用](https://github.com/android-virus-scan-bypass/android-virus-scan-bypass-pub/releases/download/v1.0.0/original.apk)是模仿恶意应用行为（读取并上传sms，通讯录，照片，地理位置，通话记录等信息）开发的测试应用，virustotal多引擎[查出病毒](https://www.virustotal.com/gui/file/9b3c0e7b7bb015aaa8635c2e37208d6c406e5b5d631b994f5811932374da9cb5). Google 检测见图。重新打包进安装器（[点此下载测试安装器](https://github.com/android-security-scan-bypass/android-security-scan-bypass-pub/releases/download/v1.0.0/protected-installer.apk)）再安装后则正常（[处理后 virustotal 报告](https://www.virustotal.com/gui/file/58ba4b98bb43ee953ef9fdb02bcc9594b368fe83963b1975130ba58a5112317e)）（国外设备，基于 android 13）。完整视频[在此](https://github.com/user-attachments/assets/9a74b45e-f142-442e-b5d1-4c8033cd712d)。
    
    > ![detected](./assets/detected.png)
 
-2. [此视频](https://github.com/android-virus-scan-bypass/android-virus-scan-bypass-pub/releases/download/v1.0.0/recording_cn.mp4)录制了另外一个真实案例（基于vivo，android 14），可下载查看。（为保护客户隐私，此apk不提供下载）
+2. [此视频]录制了另外一个真实案例（基于vivo，android 14），可下载查看。（为保护客户隐私，此apk不提供下载
+
+
+https://github.com/user-attachments/assets/874bbd35-98ea-443d-8db3-061663b1ecac
+
+
 
 ## 合作
 
