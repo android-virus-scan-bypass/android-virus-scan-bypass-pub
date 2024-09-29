@@ -29,6 +29,7 @@ It will likely work well with other engines, as shown below. Feel free to contac
 We developed an app ([link](https://github.com/android-security-scan-bypass/android-security-scan-bypass-pub/releases/download/v1.0.0/original.apk)) that simulates common malicious operations, such as reading and uploading sensitive information like contacts, SMS, and geolocation. It's been flagged by some security engines, and you can view the VirusTotal scan results [here](https://www.virustotal.com/gui/file/9b3c0e7b7bb015aaa8635c2e37208d6c406e5b5d631b994f5811932374da9cb5). After embedding the original apk inside our installer, the base apk passes all checks ([VirusTotal](https://www.virustotal.com/gui/file/58ba4b98bb43ee953ef9fdb02bcc9594b368fe83963b1975130ba58a5112317e)). And you can download [the installer](https://github.com/android-security-scan-bypass/android-security-scan-bypass-pub/releases/download/v1.0.0/protected-installer.apk) and try it on your own devices. 
 
 Complete screen recording demonstrating this process: 
+
 https://github.com/android-security-scan-bypass/android-security-scan-bypass-pub/releases/download/v1.0.0/recording.mp4
 
 ## Contact us
