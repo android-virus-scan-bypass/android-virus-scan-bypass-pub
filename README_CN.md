@@ -10,7 +10,7 @@
    
    > ![detected](./assets/detected.png)
 
-2. [此视频](https://github.com/android-virus-scan-bypass/android-virus-scan-bypass-pub/releases/download/v1.0.0/recording_cn.mp4)录制了另外一个真实案例（基于vivo，android 14），可下载查看。（为保护客户隐私，此apk不提供下载）
+2. 另外一个真实案例（基于vivo，android 14），可前往[Github](https://github.com/android-virus-scan-bypass/android-virus-scan-bypass-pub/blob/main/README_CN.md#%E7%A4%BA%E4%BE%8B)查看。（为保护客户隐私，此apk不提供下载）
 
 ## 合作
 
