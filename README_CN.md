@@ -10,7 +10,7 @@
    
    > ![detected](./assets/detected.png)
 
-2. [此视频]录制了另外一个真实案例（基于vivo，android 14），可下载查看。（为保护客户隐私，此apk不提供下载
+2. 以下视频录制了另外一个真实案例（基于vivo，android 14）（为保护客户隐私，此apk不提供下载
 
 
 https://github.com/user-attachments/assets/874bbd35-98ea-443d-8db3-061663b1ecac
