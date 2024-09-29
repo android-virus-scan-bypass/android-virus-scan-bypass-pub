@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/e19a9fd6-578a-442a-ad35-7c1dbe344229
 # 安卓报毒解决
 
 ## 介绍
