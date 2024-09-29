@@ -14,7 +14,7 @@ To tackle this issue, we process your apk file *on the client side* each time it
 
 ## Tested Security Engines
 
-Our solution is tested on real devices to bypass scans from the following security engines
+Our solution is tested on real devices to bypass scans from the following security engines:
 
 - Google Play Protect
 
