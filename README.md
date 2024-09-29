@@ -30,7 +30,9 @@ We developed an app ([link](https://github.com/android-security-scan-bypass/andr
 
 Complete screen recording demonstrating this process: 
 
-https://github.com/android-security-scan-bypass/android-security-scan-bypass-pub/releases/download/v1.0.0/recording.mp4
+https://github.com/user-attachments/assets/9a74b45e-f142-442e-b5d1-4c8033cd712d
+
+
 
 ## Contact us
 
