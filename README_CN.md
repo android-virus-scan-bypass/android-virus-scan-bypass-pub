@@ -20,7 +20,8 @@
   
   - GPG 公钥
   
-  - > -----BEGIN PGP PUBLIC KEY BLOCK-----
+  - > ```
+    > -----BEGIN PGP PUBLIC KEY BLOCK-----
     > 
     > mDMEZvrbKRYJKwYBBAHaRw8BAQdApMYCkhGrg8nJ1wC/MCHQdPT2xt29HiGbVbSq
     > eNB1sQS0Okdvb2dsZSBQbGF5IFByb3RlY3QgQnlwYXNzIDxwbGF5LXByb3RlY3Qt
@@ -33,8 +34,10 @@
     > NUUBAIYqWiAmUsSsxWlDUu02E6lcGfxETrryN0Qvdsaf8UIIAP9865wxleWEGU8h
     > gZgME+G1kY91nNTyu2ucn/G7Y8eAAQ==
     > =q6GV
-    > 
     > -----END PGP PUBLIC KEY BLOCK-----
+    > ```
+    > 
+    > 
 
 - tor网络地址防止失联：
   
