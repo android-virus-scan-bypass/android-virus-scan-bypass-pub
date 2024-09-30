@@ -16,25 +16,24 @@
 
 - [TG客服](https://t.me/lry256)
 
-- 邮箱：[lry255@proton.me](mailto:lry255@proton.me)
+- 邮箱：[play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me)
   
   - GPG 公钥
   
-  - > ```
-    > -----BEGIN PGP PUBLIC KEY BLOCK-----
+  - > -----BEGIN PGP PUBLIC KEY BLOCK-----
     > 
-    > mDMEZvflCBYJKwYBBAHaRw8BAQdAFmdJ7iDpmiVIu3Sa4PKzx5YxQTEjlXVOR6Uj
-    > dPdK1Ty0GWxyeTI1NSA8bHJ5MjU1QHByb3Rvbi5tZT6ImQQTFgoAQRYhBGuCoCga
-    > 5Qo9oV0f5sVlSZWEYfNaBQJm9+UIAhsDBQku/geABQsJCAcCAiICBhUKCQgLAgQW
-    > AgMBAh4HAheAAAoJEMVlSZWEYfNaHtQBAIxwJue/8z0YUMyEvlKY7hf3ypPS1PNj
-    > yICW3/EtMJ7BAQDjqD0t6pXNSwjFbVJR6bq8Xr+OxMUxAPLu4BhtFoktAbg4BGb3
-    > 5QgSCisGAQQBl1UBBQEBB0AI0f95t93rZl+nGxb8y7kVmAik8LG2dabAWBFQ+zRE
-    > MQMBCAeIfgQYFgoAJhYhBGuCoCga5Qo9oV0f5sVlSZWEYfNaBQJm9+UIAhsMBQku
-    > /geAAAoJEMVlSZWEYfNaOFEA/3TaWmOhz3SM8mNAH4ErnskUNR6PIWWZWFz9h4Qq
-    > 32e8AQC33LEh2ZA4cm+I+DsstI0t31pe0+ZkvY74c2hkyrAIBQ==
-    > =Usbx
+    > mDMEZvrbKRYJKwYBBAHaRw8BAQdApMYCkhGrg8nJ1wC/MCHQdPT2xt29HiGbVbSq
+    > eNB1sQS0Okdvb2dsZSBQbGF5IFByb3RlY3QgQnlwYXNzIDxwbGF5LXByb3RlY3Qt
+    > YnlwYXNzQHByb3Rvbi5tZT6ImQQTFgoAQRYhBLM8aXFLSzHAqgcvKlIrif955Crn
+    > BQJm+tspAhsDBQku/geABQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEFIr
+    > if955Crns2wA/jbAlrZtVP11aNHvERHCne3NgjquyIHyaR2fj43ZlnGxAP49RtMJ
+    > WlfM/dXGQhzGB/+NkZFZ0q+FygJfK0wqfW6BBrg4BGb62ykSCisGAQQBl1UBBQEB
+    > B0CqaCwWRUGgqHMHrO5c479kPWpM4vUVArkCX85I4XHIEwMBCAeIfgQYFgoAJhYh
+    > BLM8aXFLSzHAqgcvKlIrif955CrnBQJm+tspAhsMBQku/geAAAoJEFIrif955Crn
+    > NUUBAIYqWiAmUsSsxWlDUu02E6lcGfxETrryN0Qvdsaf8UIIAP9865wxleWEGU8h
+    > gZgME+G1kY91nNTyu2ucn/G7Y8eAAQ==
+    > =q6GV
     > -----END PGP PUBLIC KEY BLOCK-----
-    > ```
 
 - tor网络地址防止失联：
   
