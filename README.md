@@ -1,4 +1,4 @@
-# Google Play Protect Bypass | Android Virus Scan Bypass
+# Google Play Protect Bypass (Android Virus Scan Bypass)
 
 安卓报毒解决方案 [中文说明](./README_CN.md)
 
