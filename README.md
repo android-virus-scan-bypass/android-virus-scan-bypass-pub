@@ -30,7 +30,7 @@ We developed an app ([link](https://github.com/android-security-scan-bypass/andr
 
 ## Contact us
 
-If you're interested in protecting your app, [send us a direct message on Telegram](https://t.me/lry256). You can also reach us at [lry255@proton.me](mailto:play-protect-bypass@proton.me) (optionally) encrypted with the GPG public key listed below:
+If you're interested in protecting your app, [send us a direct message on Telegram](https://t.me/lry256). You can also reach us at [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me) (optionally) encrypted with the GPG public key listed below:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
