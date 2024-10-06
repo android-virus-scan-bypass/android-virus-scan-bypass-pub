@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/9a74b45e-f142-442e-b5d1-4c8033cd712d
 
 ## Contact us
 
-If you're interested in protecting your app, [send us a direct message on Telegram](https://t.me/lry256). You can also reach us at [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me) (optionally) encrypted with the GPG public key listed below:
+If you're interested in protecting your app, [send us a direct message on Telegram](https://t.me/m/Vrkx6ng1MmJh). You can also reach us at [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me) (optionally) encrypted with the GPG public key listed below:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

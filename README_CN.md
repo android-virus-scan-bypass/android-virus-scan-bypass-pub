@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/874bbd35-98ea-443d-8db3-061663b1ecac
 
 ## 合作
 
-- [TG客服](https://t.me/lry256)
+- [TG客服](https://t.me/m/8UuSfBj2Y2Vh)
 
 - 邮箱：[play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me)
   
