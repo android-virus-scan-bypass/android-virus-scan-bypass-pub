@@ -35,6 +35,13 @@ https://github.com/user-attachments/assets/9a74b45e-f142-442e-b5d1-4c8033cd712d
 ## Contact us
 
 - Recommended: the [telegram bot](https://t.me/google_protect_bypass_bot) (try it for free). 
+- Price
+  
+  protect one apk for one month consumes one token
+  - $30 for 1 token
+  - $100 for 5 tokens
+  - $500 for 35 tokens
+  - let's chat if you have more than 70 apk
 
 If you're interested in protecting your app, [send us a direct message on Telegram](https://t.me/m/Vrkx6ng1MmJh). You can also reach us at [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me) (optionally) encrypted with the GPG public key listed below:
 
