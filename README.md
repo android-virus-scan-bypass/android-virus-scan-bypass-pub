@@ -40,13 +40,13 @@ https://github.com/user-attachments/assets/9a74b45e-f142-442e-b5d1-4c8033cd712d
   
   protect one apk for one month consumes one token
   
-  - $50 for 1 token
+  - $35 for 1 token
   
-  - $100 for 3 tokens
+  - $100 for 4 tokens
   
-  - $300 for 12 tokens
+  - $300 for 20 tokens
   
-  - $550 for 35 tokens (**valid for one month**)
+  - $550 for 50 tokens (**valid for one month**)
 
 If you're interested in protecting your app, [send us a direct message on Telegram](https://t.me/m/Vrkx6ng1MmJh). You can also reach us at [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me) (optionally) encrypted with the GPG public key listed below:
 
