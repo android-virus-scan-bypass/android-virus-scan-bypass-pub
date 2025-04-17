@@ -38,23 +38,7 @@ https://github.com/user-attachments/assets/9a74b45e-f142-442e-b5d1-4c8033cd712d
 - [Telegram bot](https://t.me/protect_bypass_bot)
 - [Telegram Channel](https://t.me/bypass_offical)
 
-If you're interested in protecting your app, [send us a direct message on Telegram](https://t.me/realghostofc). You can also reach us at [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me) (optionally) encrypted with the GPG public key listed below:
 
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEZvrbKRYJKwYBBAHaRw8BAQdApMYCkhGrg8nJ1wC/MCHQdPT2xt29HiGbVbSq
-eNB1sQS0Okdvb2dsZSBQbGF5IFByb3RlY3QgQnlwYXNzIDxwbGF5LXByb3RlY3Qt
-YnlwYXNzQHByb3Rvbi5tZT6ImQQTFgoAQRYhBLM8aXFLSzHAqgcvKlIrif955Crn
-BQJm+tspAhsDBQku/geABQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEFIr
-if955Crns2wA/jbAlrZtVP11aNHvERHCne3NgjquyIHyaR2fj43ZlnGxAP49RtMJ
-WlfM/dXGQhzGB/+NkZFZ0q+FygJfK0wqfW6BBrg4BGb62ykSCisGAQQBl1UBBQEB
-B0CqaCwWRUGgqHMHrO5c479kPWpM4vUVArkCX85I4XHIEwMBCAeIfgQYFgoAJhYh
-BLM8aXFLSzHAqgcvKlIrif955CrnBQJm+tspAhsMBQku/geAAAoJEFIrif955Crn
-NUUBAIYqWiAmUsSsxWlDUu02E6lcGfxETrryN0Qvdsaf8UIIAP9865wxleWEGU8h
-gZgME+G1kY91nNTyu2ucn/G7Y8eAAQ==
-=q6GV
------END PGP PUBLIC KEY BLOCK-----
 ```
 
 ## Notice
